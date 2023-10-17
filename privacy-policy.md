@@ -1,36 +1,64 @@
-Privacy Policy  
-----------------
+Mandob Privacy and Use Policy
 
-### Introduction  
-Mandob built the Mandob app as a free app. This SERVICE is provided by Mandob at no cost and is intended for use as is. Our privacy policy explains what information we collect at Mandob, how Mandob uses it, and what choices you have. If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. We will not use or share your information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible on our website, unless otherwise defined in this Privacy Policy.
+Introduction
 
+Mandob built the Mandob app as a free app. This SERVICE is provided by Mandob. This policy explains our practices about the information we collect, how Mandob uses it, and what choices you have.
 
-### Information Collection and Use  
-Our app requires access to certain personally identifiable information to provide a comprehensive solution for managing courier services, which includes managing delivery schedules, tracking deliveries in real-time, optimizing delivery routes for maximum efficiency, managing a courier company's fleet of vehicles, forecasting demand, and improving customer satisfaction through real-time package tracking. For a better experience while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy. Additionally, the app does use third-party services, such as Google Play Services and Firebase Crashlytics, which may collect information used to identify you. Please refer to the privacy policies of these third-party service providers for more information on how they collect, use, and protect your information. We will not use or share your information with anyone except as described in this Privacy Policy.
+Acceptance of Terms
 
-### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
+By using our Service, you agree to the collection, use, and sharing of information in accordance with this policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible on our website, unless otherwise defined here.
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
+Information Collection and Use
 
-### Location Information  
-Our app needs background location access for real-time delivery and vehicle tracking, optimizing routes and ensuring timely deliveries. Customers receive real-time package updates, improving satisfaction. A location-based feature is real-time tracking of drivers, enabling dispatchers to assign routes based on location and manage deliveries. Customers can track their deliveries in real-time, providing convenience and accurate delivery estimates.
+Our app requires access to certain personally identifiable information for managing courier services. For a better experience, we may require you to provide specific personally identifiable information. We retain this information and use it as described in this privacy policy.
 
-### Device Information  
-We may collect information from your device to improve our service and prevent fraudulent acts. Such information will not include that which will identify the individual user.
+Cookies
 
-### Service Providers  
-We may employ third-party companies and individuals to facilitate our Service, provide the Service on our behalf, perform Service-related services, or assist us in analyzing how our Service is used. These third parties have access to your Personal Information, but they are obligated not to disclose or use the information for any other purpose.
+Cookies are files with a small amount of data. This Service may use third-party code and libraries that use cookies to improve their services.
 
+Location Information
 
-### Security  
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. However, no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+Our app uses background location access for real-time delivery tracking and optimizing routes.
 
-### Children’s Privacy  
-This Service does not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+Device Information
 
-### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
+We may collect specific device information to enhance our service and prevent fraudulent acts.
 
-### Contact Us  
-If you have any questions or suggestions about our Privacy Policy, please do not hesitate to contact us at ameenhajyasin@gmail.com.
+Service Providers
+
+We may employ third-party services to facilitate our Service. These third parties have access to your Personal Information but are obligated not to disclose or use it for other purposes.
+
+Security
+
+While we strive to use commercially acceptable means to protect your Personal Information, no method is 100% secure.
+
+Children’s Privacy
+
+This Service does not address anyone under the age of 13.
+
+Changes to This Privacy Policy
+
+We may update our Privacy Policy periodically. You're advised to review this page for any changes.
+
+Cancellation or Competitor Switch Penalty
+
+Acknowledgement: By using the Mandob app, the user acknowledges the resources, time, and investment Mandob has made in providing the service, especially for initial customers who have received bespoke features, offers, or terms.
+Penalty for Early Cancellation or Switching to a Competitor: Should the user decide to cancel their subscription or switch to a competitor's service from the first meeting, they will be liable to pay a penalty fee equivalent to $24000 to compensate for the initial resources expended by Mandob. This penalty is due to the significant value and proprietary features provided by Mandob during the user's tenure.
+
+Unauthorized Use and Sharing Policy
+
+At Mandob, we highly value the trust our users place in our application and services. We aim to provide an innovative solution while ensuring the integrity and uniqueness of our product. As such, we have established guidelines to prevent unauthorized use, sharing, and potential harm to Mandob's business interests.
+
+Non-Disclosure Agreement: By using the Mandob app, users implicitly agree not to disclose, demonstrate, or share any features, functionalities, or any other aspects of our application with third parties, especially with our competitors. This agreement is in place to protect the unique offerings and business interests of our service, regardless of formal intellectual property rights.
+
+Non-Compete Clause: Users of the Mandob app are prohibited from exploiting our platform, its technologies, features, or any data contained within, for the benefit of any competitor or for purposes that directly compete with Mandob.
+
+Penalties for Breach: Engaging in unauthorized distribution, demonstration, copying of the app, or any violation of these terms can result in immediate termination of service and revocation of access licenses. Additionally, we reserve the right to pursue legal actions based on breach of contract.
+
+Reporting Suspicious Activities: We encourage our user community to be vigilant and report any suspected breaches of this policy. If you come across activities that you believe violate our terms, please contact us promptly at ameenhajyasin@gmail.com. We assure that all reports will be treated with confidentiality and urgency.
+
+Agreement Coverage
+
+By using the Mandob app and its services, you acknowledge and agree that this policy supersedes and replaces any previous agreements or understandings, whether oral or written, regarding the use of the Mandob app from the moment of user registration or sign-in. This policy is binding and comprehensive of all prior interactions and agreements.
+
+For questions or suggestions about our Privacy Policy, contact us at ameenhajyasin@gmail.com.
