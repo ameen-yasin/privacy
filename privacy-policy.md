@@ -43,7 +43,7 @@ We may update our Privacy Policy periodically. You're advised to review this pag
 Cancellation or Competitor Switch Penalty
 
 Acknowledgement: By using the Astro app, the user acknowledges the resources, time, and investment Astro has made in providing the service, especially for initial customers who have received bespoke features, offers, or terms.
-Penalty for Early Cancellation or Switching to a Competitor: Should the user decide to cancel their subscription or switch to a competitor's service from the first meeting, they will be liable to pay a penalty fee equivalent to $24000 to compensate for the initial resources expended by Astro. This penalty is due to the significant value and proprietary features provided by Astro during the user's tenure.
+Penalty for Early Cancellation or Switching to a Competitor: Should the user decide to cancel their subscription or switch to a competitor's service from the first meeting, they will be liable to pay a penalty fee equivalent to $24000 or more to compensate for the initial resources expended by Astro. This penalty is due to the significant value and proprietary features provided by Astro during the user's tenure.
 
 Unauthorized Use and Sharing Policy
 
